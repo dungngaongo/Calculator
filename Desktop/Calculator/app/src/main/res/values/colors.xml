@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#E0E0E0</color>
+    <color name="button_background">#E0E0E0</color>
+    <color name="operator_default_color">#FF6200EE</color> <!-- Màu mặc định của nút toán tử -->
+    <color name="operator_pressed_color">#FF03DAC5</color> <!-- Màu khi nhấn -->
+</resources>
+
